@@ -2,7 +2,7 @@
 - 👀 I’m interested in JavaScript and Python.
 - 🌱 I’m currently learning JavaScript in Gothenburg.
 - 💞️ I’m looking to collaborate on anything that sounds fun!
-- 📫 How to reach me my_user.calle@gmail.com
+
 
 <!---
 Ozmehak/Ozmehak is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
