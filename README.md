@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Ozmehak
-- 👀 I’m interested in JavaScript and Python.
-- 🌱 I’m currently learning JavaScript in Gothenburg.
+- 👀 I’m interested in Linux development and robotics.
 - 💞️ I’m looking to collaborate on anything that sounds fun!
 
 
