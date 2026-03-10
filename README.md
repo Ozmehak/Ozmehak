@@ -1,6 +1,4 @@
-- 👋 Hi, I’m @Ozmehak
-- 👀 I’m interested in Linux development and gaming.
-- 💞️ I’m looking to collaborate on anything that sounds fun!
+Pls do not contact me, I'm a werewolf.
 
 
 <!---
